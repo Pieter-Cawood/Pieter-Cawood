@@ -42,6 +42,18 @@ Welcome to my GitHub profile! I'm a multidisciplinary engineer specializing in *
 - Unsupervised Learning
 - Dimensionality Reduction & Feature Engineering
 
+### 🔧 DevOps & MLOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+
+- **MLOps:** Apache Airflow, Celery, MLFlow, MinIO, fast.ai
+- **CI/CD:** Azure DevOps Pipelines
+- **Containerization:** Docker, Docker Compose
+- **Version Control:** Git, GitFlow, Azure DevOps
+- **Project Management:** Agile with Redmine, Azure DevOps
+- **Analytics:** Power BI
+
 ### ☁️ Cloud & Data Platforms
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
@@ -81,19 +93,6 @@ Welcome to my GitHub profile! I'm a multidisciplinary engineer specializing in *
 - Siemens SINAMICS (DC/AC)
 - SEW MOVIFIT
 - Bosch Rexroth IndraWorks Ds
-
-### 🔧 DevOps & MLOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-
-- **MLOps:** Apache Airflow, Celery, MLFlow, MinIO, fast.ai
-- **CI/CD:** Azure DevOps Pipelines
-- **Containerization:** Docker, Docker Compose
-- **Version Control:** Git, GitFlow, Azure DevOps
-- **Project Management:** Agile with Redmine, Azure DevOps
-- **Analytics:** Power BI
-
 
 ## 📫 Connect With Me
 
