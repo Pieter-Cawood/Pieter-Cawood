@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a multidisciplinary engineer specializing in *
 - 🌱 Passionate about MLOps, deep learning, and industrial control systems
 - 👯 Open to collaborating on ML/AI projects and full-stack applications
 - 💬 Ask me about machine learning, PLC programming, or full-stack development
-- 📫 How to reach me: [Your Email or LinkedIn]
 
 ## 🛠️ Tech Stack
 
